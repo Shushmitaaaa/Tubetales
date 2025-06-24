@@ -2,3 +2,6 @@ youtube_transcript_api
 python-dotenv
 pathlib
 gunicorn
+flask
+flask-cors
+requests
