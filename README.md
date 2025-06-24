@@ -31,7 +31,7 @@ Groq API Key:
 ##  Tech Stack
    
  Frontend:   HTML, CSS, JavaScript     
- Backend :    Python, Flask, Flask-CORS 
+ Backend :    Python, Flask, Flask-CORS    
  LLM     :   LLaMA 3 (70B) on Groq     
  Transcript:  youtube-transcript-api    
  Deployment: Render (free tier)        
