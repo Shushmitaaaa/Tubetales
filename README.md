@@ -3,13 +3,12 @@
 
 An intelligent web application that leverages the power of **LLaMA 3 (70B)** hosted on **Groq** to generate accurate and concise summaries of YouTube videos in seconds. Built using **Flask**, **JavaScript**, and the **YouTube Transcript API**, this project is optimized for speed, clarity, and professional deployment.
 
----
+
 
 ##  Live Demo
 
 Try the live app here : [https://tubetales-1.onrender.com/](https://tubetales-1.onrender.com)
 
----
 
 ##  Screenshots
 
@@ -19,7 +18,7 @@ Try the live app here : [https://tubetales-1.onrender.com/](https://tubetales-1.
 
 ![summarizer1](https://github.com/user-attachments/assets/9200fe45-b518-4b16-87be-391f19e77fe0)
 
----
+
 ## Obtaining API Key
 
 Groq API Key:
@@ -36,7 +35,6 @@ Groq API Key:
  Transcript:  youtube-transcript-api    
  Deployment: Render (free tier)        
 
----
 
 ## Local Setup Instructions
 
@@ -79,7 +77,6 @@ python app.py
 
 Access it at `http://localhost:5000`
 
----
 
 ##  Deployment on Render
 
@@ -94,7 +91,6 @@ Access it at `http://localhost:5000`
 
 > Don't forget to include `gunicorn` in your `requirements.txt`.
 
----
 
 
 ##  How It Works
@@ -105,7 +101,6 @@ Access it at `http://localhost:5000`
 * The LLM responds with a clear, structured summary
 * The frontend renders the summary, allowing you to copy or download it
 
----
 
 ##  Use Cases
 
@@ -115,7 +110,7 @@ Access it at `http://localhost:5000`
 *  Content repurposing
 *  Learning on the go
 
----
+
 
 
 
